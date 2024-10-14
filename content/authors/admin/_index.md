@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Yu Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
