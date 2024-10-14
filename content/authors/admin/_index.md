@@ -56,10 +56,10 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Library and Information Science, with Focus in Bioinformatics
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2017-01-01
+    date_end: 2019-12-31
     summary: |
       GPA: 3.8/4.0
 
