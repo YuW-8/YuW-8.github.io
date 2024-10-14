@@ -32,7 +32,19 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Career Goal'
+      subtitle: ''
+      text: |-
+        Throughout my academic journey, I have noticed a troubling disconnect: the wealth of research findings often fails to lead to meaningful treatments for patients. This critical gap can be effectively bridged through translational cancer research. 
+        
+        With my expertise in both wet and dry lab methodologies, I am well-positioned to make substantial contributions to accelerating the translation of scientific advancements into practical clinical applications.
+        
+        Please feel free to reach out if you’re interested in working with me 😃
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: '📚 My Current Research'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
