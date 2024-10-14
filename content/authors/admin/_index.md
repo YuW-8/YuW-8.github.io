@@ -48,10 +48,10 @@ interests:
   - Next-Generation Sequencing (NGS)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Molecular and Integrative Physiology, with focus in Immuno-oncology
+    institution: University of Illinois Urbana-Champaign (UIUC)
+    date_start: Fall 2020
+    date_end: 2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
