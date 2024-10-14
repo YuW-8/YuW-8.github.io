@@ -6,12 +6,12 @@ title: Yu Wang
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu
+last_name: Wang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🏋️‍♀️
 
 # Is this the primary user of the site?
 superuser: true
