@@ -49,10 +49,10 @@ interests:
 
 education:
   - area: PhD Molecular and Integrative Physiology, with focus in Immuno-oncology
-    institution: University of Illinois Urbana-Champaign (UIUC)
+    institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-19
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response. Supervised by Dr. Erik R. Nelson (https://mcb.illinois.edu/directory/profile/enels). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
