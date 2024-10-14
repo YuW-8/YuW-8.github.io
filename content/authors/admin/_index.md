@@ -44,9 +44,8 @@ profiles:
 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Translational Immuno-Oncology (TIO)
+  - Next-Generation Sequencing (NGS)
 
 education:
   - area: PhD Artificial Intelligence
