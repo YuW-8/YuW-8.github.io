@@ -32,12 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Career Goal'
+      title: 'My Career Goal and Dedication'
       subtitle: ''
       text: |-
-        Throughout my academic journey, I have noticed a troubling disconnect: the wealth of research findings often fails to lead to meaningful treatments for patients. This critical gap can be effectively bridged through translational cancer research. 
+        As a dedicated cancer researcher, my long-term aspiration is to lead the development of innovative, effective treatments that minimize side effects and address the diverse needs of patients. 
         
-        With my expertise in both wet and dry lab methodologies, I am well-positioned to make substantial contributions to accelerating the translation of scientific advancements into practical clinical applications.
+        Throughout my academic journey, I have observed a significant disconnect between the abundance of research findings and their limited translation into meaningful clinical outcomes. I believe this critical gap can be bridged through impactful translational cancer research. 
+        
+        With my proficiency in both wet and dry lab methodologies, I am poised to drive the transformation of scientific breakthroughs into practical applications that enhance patient care and improve lives.
         
         Please feel free to reach out if you’re interested in working with me 😃
     design:
