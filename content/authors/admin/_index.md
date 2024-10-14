@@ -51,7 +51,7 @@ education:
   - area: PhD Molecular and Integrative Physiology, with focus in Immuno-oncology
     institution: University of Illinois Urbana-Champaign (UIUC)
     date_start: Fall 2020
-    date_end: 2025
+    date_end: Summer or Fall 2025
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
