@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Poster presentation
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 'AACR Special Conference on Tumor-body Interactions - The roles of micro-and macroenvironment in cancer'
+event_url: https://www.aacr.org/meeting/aacr-special-conference-in-cancer-research-tumor-body-interactions-the-roles-of-micro-and-macroenvironment-in-tumor-heterogeneity-metastasis-and-therapy-responses/?gad_source=1&gbraid=0AAAAADrBdMSDyUVJUGTtTAf4XExsttffB&gclid=Cj0KCQjwgrO4BhC2ARIsAKQ7zUmqLasMZR8Fq2gAXugB231WNvQCa7gM81QgOL1sIb4xKm1O1R2-5ggaAqgeEALw_wcB
 
-location: Hugo Blox Builder HQ
+location: Boston, Massachusetts
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 
+  city: 
+  region: 
+  postcode: 
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: N/A
+abstract: N/A
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-11-17T13:00:00Z'
+date_end: '2024-11-20T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -63,13 +63,6 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+Publication’s **full text** or **supplementary notes** will be updated.
 {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
