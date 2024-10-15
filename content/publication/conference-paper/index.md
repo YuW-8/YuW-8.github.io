@@ -34,7 +34,7 @@ abstract: N/A
 summary: N/A
 
 tags:
-  - Journal article
+  - Journal article (in preparation)
 
 # Display this page in the Featured widget?
 featured: true
