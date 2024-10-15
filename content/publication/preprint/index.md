@@ -66,4 +66,4 @@ slides: example
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Publication's **full text** or **supplementary notes** will be added. 
+Publication's **full text** or **supplementary notes** will be updated soon. 
