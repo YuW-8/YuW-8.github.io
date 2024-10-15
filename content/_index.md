@@ -49,11 +49,11 @@ sections:
       title: '📚 My Current Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Cholesterol metabolites play crucial roles in the progression of breast cancer. Our previous research has shown that myeloid immune cells, a dominant cell type within the tumor microenvironment, are especially sensitive to variations in cholesterol regulation.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        Oxysterols, which are oxidized forms of cholesterol, serve as ligands for nuclear receptors. Growing evidence underscores the importance of nuclear receptors, particularly those involved in cholesterol metabolism, in influencing cancer progression through their roles in tumor immunology.
+
+        My research focuses on elucidating the functions of the nuclear receptor LRH-1/NR5A2, a vital regulator of cholesterol homeostasis, within myeloid immune cells and exploring its subsequent effects on breast cancer progression.
     design:
       columns: '1'
   - block: collection
