@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-10-10
 type: landing
 
 design:
@@ -56,17 +56,7 @@ sections:
         My research focuses on elucidating the functions of the nuclear receptor LRH-1/NR5A2, a vital regulator of cholesterol homeostasis, within myeloid immune cells and exploring its subsequent effects on breast cancer progression.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
+      
   - block: collection
     content:
       title: Recent Publications
@@ -77,16 +67,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+
   - block: collection
     id: news
     content:
