@@ -61,7 +61,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://content.ebscohost.com/cds/retrieve?content=AQICAHiylJ_bvOB56hI8UzTN6Ryruh7a0kiIBN_ANwtaWYjmxwEt38qgIKvWo4KnQ6IZ589OAAAA4jCB3wYJKoZIhvcNAQcGoIHRMIHOAgEAMIHIBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDN2i_KeGuu9_SXu8hgIBEICBmoYUZB5XXGwmcrX44AkvMmwVirWoVsSed3HVOMM_hq6Cubs2vReiMb0BI4m_imwX1ErtIiziOdyZV0NzIekzgPKDGui-YXcoyY_u5Pu4vsEHxGro-_ull7sabFS74x9MsxOalAdKAHlpssS7ceieKOPQiMCM5QapqAJ3kq-M0LRBwP2enHgjoFjzshd5hrXvEyglK-ndtWDWd2s=
 url_code: ''
 url_dataset: ''
 url_poster: ''
