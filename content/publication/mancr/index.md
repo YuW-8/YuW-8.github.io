@@ -31,7 +31,7 @@ author_notes:
   - 'Co-author'
 
 date: '2024-08-12T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1080/10985549.2024.2383773'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-08-12T00:00:00Z'
