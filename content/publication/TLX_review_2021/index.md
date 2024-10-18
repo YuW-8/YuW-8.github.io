@@ -1,28 +1,27 @@
 ---
-title: "NR0B2 re-educates myeloid immune cells to reduce regulatory T cell expansion and progression of breast and other solid tumors"
+title: "TLX, an orphan nuclear receptor with emerging roles in physiology and disease"
 authors:
-- Hashni Epa Vidana Gamage
-- Sayyed Hamed Shahoei
+- Adam T Nelson
 - admin
-- et al.
+- Erik R Nelson
 author_notes:
 - "Equal contribution"
-date: "2024-08-10T00:00:00Z"
-doi: "https://doi.org/10.1016/j.canlet.2024.217042"
+date: "2021-11-01T00:00:00Z"
+doi: "https://doi.org/10.1210/endocr/bqab184"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-10T00:00:00Z"
+publishDate: "2021-11-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["review"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cancer Letters, 597*, 217086"
+publication: "*Endocrinology, 162*, 11"
 publication_short: ""
 
-abstract: Although survival from breast cancer has dramatically increased, many will develop recurrent, metastatic disease. Unfortunately, survival for this stage of disease remains very low. Activating the immune system has incredible promise since it has the potential to be curative. However, immune checkpoint blockade (ICB) which works through T cells has been largely disappointing for metastatic breast cancer. One reason for this is a suppressive myeloid immune compartment that is unaffected by ICB. Cholesterol metabolism and proteins involved in cholesterol homeostasis play important regulatory roles in myeloid cells. Here, we demonstrate that NR0B2, a nuclear receptor involved in negative feedback of cholesterol metabolism, works in several myeloid cell types to impair subsequent expansion of regulatory T cells (Tregs); Tregs being a subset known to be highly immune suppressive and associated with poor therapeutic response. Within myeloid cells, NR0B2 serves to decrease many aspects of the inflammasome, ultimately resulting in decreased IL1β; IL1β driving Treg expansion. Importantly, mice lacking NR0B2 exhibit accelerated tumor growth. Thus, NR0B2 represents an important node in myeloid cells dictating ensuing Treg expansion and tumor growth, thereby representing a novel therapeutic target to re-educate these cells, having impact across different solid tumor types. Indeed, a paper co-published in this issue demonstrates the therapeutic utility of targeting NR0B2.
+abstract: TLX (NR2E1), an orphan member of the nuclear receptor superfamily, is a transcription factor that has been described to be generally repressive in nature. It has been implicated in several aspects of physiology and disease. TLX is best known for its ability to regulate the proliferation of neural stem cells and retinal progenitor cells. Dysregulation, overexpression, or loss of TLX expression has been characterized in numerous studies focused on a diverse range of pathological conditions, including abnormal brain development, psychiatric disorders, retinopathies, metabolic disease, and malignant neoplasm. Despite the lack of an identified endogenous ligand, several studies have described putative synthetic and natural TLX ligands, suggesting that this receptor may serve as a therapeutic target. Therefore, this article aims to briefly review what is known about TLX structure and function in normal physiology, and provide an overview of TLX in regard to pathological conditions. Particular emphasis is placed on TLX and cancer, and the potential utility of this receptor as a therapeutic target.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,7 +36,7 @@ links:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pdf.sciencedirectassets.com/271149/1-s2.0-S0304383524X00166/1-s2.0-S0304383524004361/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDrUQjb3DT3%2BBtY%2B9Pj3RkSVCBQhO%2FJnIRNvXGgdQRxEAIgbcHW%2B6XIYaJuxNAwfKkXxi%2BZakya0nU4GBhNKSTIjFYqswUIPBAFGgwwNTkwMDM1NDY4NjUiDHRHW8X3T2BFJNCewCqQBXCVvl5P5fLMZf9aAOCaPs%2FFfenQcUugQGA2%2FLMyelbUwp3XjvrGmT6ar7hNzLmsE%2FxLoKSZj2dUd3wqi9HQG5JSw%2FrlvkS2ndnADhjhKlLZeqtbUxdnUkileZOSIGF8CGLUC2rINir7ECrDXdIZHownc5zlc%2F2o%2FOC56bwxtt8F3t4uW5fw3rBcLhHrSRhxjMcc9InkXpqn2d5aWBdRpFScHbR0bVVaeY5aFVGX5W8P8K%2Bso0u4TzxD5VPwiauIxCm9Gm7%2BFIXD8%2FjH9jFcm%2FIeYsSwWh7TAl9CGckKD9nUZwRpS1p64UNn6yulRbI1MmcwTxjWWXyfWvCZae83RpmmxmL4WJt1PShiRj%2BTtnFRYwEAbDqMctaiREvOMbriR9P6SRu5kdytPRrjRDHBT8U4Iv1vMntw4uHOu8%2F4ZjHvRnSiyvqS0m9%2BViFGFeJwFLqxW%2BB7C%2BXnQV%2BieEqkcKl0VOPwgg8h5uwNI35oeJtE9r4JvFOT90HmQv5kqI%2BNnZSocEbYYTPZcnHcdN8l858xjoOoPUERcHnZnsUspiHtmRDPIyBbN%2FLKtonChaykGWwypsGvsqBktWebaN2493T31%2Bse%2FOSXje36NOdQq3mXGeK0pzfny7eePiHG4%2FRuGKmcU6n3rnCs3OaNexct629PfCFJz7FMOW5o%2FwK0CKcRyh5C%2F%2Bv8HmqG0IFUan4HHFobN4pAdqS8kRq3QGNe7DmEk8yn9tmCvoH0Oe5lUiiftAZN0dz29CWCHpEXdsFFHAVdN9yafleX6GxqjtIIHxrt7%2Fcwrwa12CsgzUIaA9fRSdxgu1F2HyHNgg7ztfxgyzTxSaxOqywhM2gg7WfMF2Dlk6mF7ItdP3kYmWzpaEXQMKaNx7gGOrEB50Vh5odzQq1m8OANoqLQOpwEfdjPAIjHbKiycxMk8XZddj5amMGwg9KQksXtj9oHtWTyDzcGxjPT09JN3y8acv%2FCjzvjtwVL3ZdZ3G45A2kyH8HMmXREFt79hH286RQeVr6tYcMIZt2n6siiJLxjqPJm2lZv1Ym5SUtZf5q3w4e1WK6tye2ATTLhP0EspdgOcCALSP98FSOW3b%2F1m%2BQ6lNhJiNW5ssIBSIdVHLraZZnT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241018T031825Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3W2PCQOF%2F20241018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b11f87a8cae347cae130c8a7d0fdf1e7ea07f75329b65638aead937da1ee8157&hash=db6c0e781a1fe73f4dd50ef1ecd8da41d2590ae14bdc17ca5255d38f2ef3db8d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0304383524004361&tid=spdf-9f9bf466-0349-43d0-bc06-5430abd1ea2b&sid=227e28993c5a2341ae089d941d3b3d5ed64dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155d07535a565356500d&rr=8d456185cf832d82&cc=us
+url_pdf: https://content.ebscohost.com/cds/retrieve?content=AQICAHiylJ_bvOB56hI8UzTN6Ryruh7a0kiIBN_ANwtaWYjmxwH6vJtSyVOtmmgu97PXuDs4AAAA4jCB3wYJKoZIhvcNAQcGoIHRMIHOAgEAMIHIBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDADAVrpRHRV1U9k94wIBEICBmnY6vexjMw5Z4F0jVYZVJiPNDXgofWaV-G6zEWd6GhM-kDytnDLTEdImE43LL_3VgwHEl1uBXwXFK14tdcrwiC1kDNcC9StVfmrw9rTKtKbtvCRlbLUlpzgWtoBJIzBYq9Hd1HhYHZYEJK2IZmXIOqQ56qdiF5r-KpBEN2P1JIOYMvA2gzmkJrNZLVb-GTaX91LqsMM575t3mWU=
 url_code: ''
 url_dataset: ''
 url_poster: ''
