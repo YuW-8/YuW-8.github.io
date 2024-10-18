@@ -1,5 +1,5 @@
 ---
-title: 'MANCR lncRNA Modulates Cell-Cycle Progression and Metastasis by Cis-Regulation of Nuclear _Rho-GEF_'
+title: 'MANCR lncRNA Modulates Cell-Cycle Progression and Metastasis by Cis-Regulation of Nuclear Rho-GEF'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
