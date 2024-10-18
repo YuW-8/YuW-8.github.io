@@ -1,7 +1,7 @@
 ---
 title: A
 summary: A
-date: 
+date: 0000-00-00
 type: docs
 math: false
 tags:
