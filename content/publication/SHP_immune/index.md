@@ -19,7 +19,7 @@ publishDate: "2024-08-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cancer Letters* 597: 217086"
+publication: "*Cancer Letters, 597*, 217086"
 publication_short: ""
 
 abstract: Although survival from breast cancer has dramatically increased, many will develop recurrent, metastatic disease. Unfortunately, survival for this stage of disease remains very low. Activating the immune system has incredible promise since it has the potential to be curative. However, immune checkpoint blockade (ICB) which works through T cells has been largely disappointing for metastatic breast cancer. One reason for this is a suppressive myeloid immune compartment that is unaffected by ICB. Cholesterol metabolism and proteins involved in cholesterol homeostasis play important regulatory roles in myeloid cells. Here, we demonstrate that NR0B2, a nuclear receptor involved in negative feedback of cholesterol metabolism, works in several myeloid cell types to impair subsequent expansion of regulatory T cells (Tregs); Tregs being a subset known to be highly immune suppressive and associated with poor therapeutic response. Within myeloid cells, NR0B2 serves to decrease many aspects of the inflammasome, ultimately resulting in decreased IL1β; IL1β driving Treg expansion. Importantly, mice lacking NR0B2 exhibit accelerated tumor growth. Thus, NR0B2 represents an important node in myeloid cells dictating ensuing Treg expansion and tumor growth, thereby representing a novel therapeutic target to re-educate these cells, having impact across different solid tumor types. Indeed, a paper co-published in this issue demonstrates the therapeutic utility of targeting NR0B2.
