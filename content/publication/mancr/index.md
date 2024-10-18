@@ -12,7 +12,18 @@ authors:
   - Ritu Chaudhary
   - Dazhen Liu
   - admin
-  - et al.
+  - Rishabh Prasanth
+  - Rajendra KC
+  - Simon Lizarazo
+  - Miriam Akhnoukh
+  - Omid Gholamalamdari
+  - Anurupa Moitra
+  - Lisa M Jenkins
+  - Rohit Bhargava
+  - Erik R Nelson
+  - Kevin Van Bortle
+  - Supriya G Prasanth
+  - Kannanganattu V Prasanth
 
 
 # Author notes (optional)
