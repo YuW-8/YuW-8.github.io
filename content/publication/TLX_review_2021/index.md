@@ -28,7 +28,7 @@ abstract: Although survival from breast cancer has dramatically increased, many 
 summary: 
 
 tags:
-- Journal Article
+- Review paper
 
 featured: true
 
