@@ -6,7 +6,13 @@ title: 'MANCR lncRNA Modulates Cell-Cycle Progression and Metastasis by Cis-Regu
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Deepak K Singh
+  - Zhengmin Cong
+  - You Jin Song
+  - Minxue Liu
+  - Ritu Chaudhary
+  - Dazhen Liu
   - admin
+  - et al.
 
 
 # Author notes (optional)
