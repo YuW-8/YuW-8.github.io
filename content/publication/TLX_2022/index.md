@@ -1,17 +1,22 @@
 ---
-title: "NR0B2 re-educates myeloid immune cells to reduce regulatory T cell expansion and progression of breast and other solid tumors"
+title: "The nuclear receptor TLX (NR2E1) inhibits growth and progression of triple-negative breast cancer"
 authors:
+- Adam T Nelczyk
+- Liqian Ma
+- Anasuya Das Gupta
 - Hashni Epa Vidana Gamage
-- Sayyed Hamed Shahoei
+- Michael T McHenry
+- Madeline A Henn
+- Mohammed Kadiri
 - admin
 - et al.
 author_notes:
 - "Equal contribution"
-date: "2024-08-10T00:00:00Z"
-doi: "https://doi.org/10.1016/j.canlet.2024.217042"
+date: "2022-08-04T00:00:00Z"
+doi: "https://doi.org/10.1016/j.bbadis.2022.166515"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-10T00:00:00Z"
+publishDate: "2022-08-04T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,10 +24,10 @@ publishDate: "2024-08-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Cancer Letters, 597*, 217086"
+publication: "*Biochimica et Biophysica Acta (BBA)-Molecular Basis of Disease, 1868*, 11"
 publication_short: ""
 
-abstract: Although survival from breast cancer has dramatically increased, many will develop recurrent, metastatic disease. Unfortunately, survival for this stage of disease remains very low. Activating the immune system has incredible promise since it has the potential to be curative. However, immune checkpoint blockade (ICB) which works through T cells has been largely disappointing for metastatic breast cancer. One reason for this is a suppressive myeloid immune compartment that is unaffected by ICB. Cholesterol metabolism and proteins involved in cholesterol homeostasis play important regulatory roles in myeloid cells. Here, we demonstrate that NR0B2, a nuclear receptor involved in negative feedback of cholesterol metabolism, works in several myeloid cell types to impair subsequent expansion of regulatory T cells (Tregs); Tregs being a subset known to be highly immune suppressive and associated with poor therapeutic response. Within myeloid cells, NR0B2 serves to decrease many aspects of the inflammasome, ultimately resulting in decreased IL1β; IL1β driving Treg expansion. Importantly, mice lacking NR0B2 exhibit accelerated tumor growth. Thus, NR0B2 represents an important node in myeloid cells dictating ensuing Treg expansion and tumor growth, thereby representing a novel therapeutic target to re-educate these cells, having impact across different solid tumor types. Indeed, a paper co-published in this issue demonstrates the therapeutic utility of targeting NR0B2.
+abstract: Development of targeted therapies will be a critical step towards reducing the mortality associated with triple-negative breast cancer (TNBC). To achieve this, we searched for targets that met three criteria: (1) pharmacologically targetable, (2) expressed in TNBC, and (3) expression is prognostic in TNBC patients. Since nuclear receptors have a well-defined ligand-binding domain and are thus highly amenable to small-molecule intervention, we focused on this class of protein. Our analysis identified TLX (NR2E1) as a candidate. Specifically, elevated tumoral TLX expression was associated with prolonged recurrence-free survival and overall survival for breast cancer patients with either estrogen receptor alpha (ERα)-negative or basal-like tumors. Using two TNBC cell lines, we found that stable overexpression of TLX impairs in vitro proliferation. RNA-Seq analysis revealed that TLX reduced the expression of genes implicated in epithelial-mesenchymal transition (EMT), a cellular program known to drive metastatic progression. Indeed, TLX overexpression significantly decreased cell migration and invasion, and robustly decreased the metastatic capacity of TNBC cells in murine models. We identify SERPINB2 as a likely mediator of these effects. Taken together, our work indicates that TLX impedes the progression of TNBC. Several ligands have been shown to regulate the transcriptional activity of TLX, providing a framework for the future development of this receptor for therapeutic intervention.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -37,7 +42,7 @@ links:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://pdf.sciencedirectassets.com/271149/1-s2.0-S0304383524X00166/1-s2.0-S0304383524004361/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDrUQjb3DT3%2BBtY%2B9Pj3RkSVCBQhO%2FJnIRNvXGgdQRxEAIgbcHW%2B6XIYaJuxNAwfKkXxi%2BZakya0nU4GBhNKSTIjFYqswUIPBAFGgwwNTkwMDM1NDY4NjUiDHRHW8X3T2BFJNCewCqQBXCVvl5P5fLMZf9aAOCaPs%2FFfenQcUugQGA2%2FLMyelbUwp3XjvrGmT6ar7hNzLmsE%2FxLoKSZj2dUd3wqi9HQG5JSw%2FrlvkS2ndnADhjhKlLZeqtbUxdnUkileZOSIGF8CGLUC2rINir7ECrDXdIZHownc5zlc%2F2o%2FOC56bwxtt8F3t4uW5fw3rBcLhHrSRhxjMcc9InkXpqn2d5aWBdRpFScHbR0bVVaeY5aFVGX5W8P8K%2Bso0u4TzxD5VPwiauIxCm9Gm7%2BFIXD8%2FjH9jFcm%2FIeYsSwWh7TAl9CGckKD9nUZwRpS1p64UNn6yulRbI1MmcwTxjWWXyfWvCZae83RpmmxmL4WJt1PShiRj%2BTtnFRYwEAbDqMctaiREvOMbriR9P6SRu5kdytPRrjRDHBT8U4Iv1vMntw4uHOu8%2F4ZjHvRnSiyvqS0m9%2BViFGFeJwFLqxW%2BB7C%2BXnQV%2BieEqkcKl0VOPwgg8h5uwNI35oeJtE9r4JvFOT90HmQv5kqI%2BNnZSocEbYYTPZcnHcdN8l858xjoOoPUERcHnZnsUspiHtmRDPIyBbN%2FLKtonChaykGWwypsGvsqBktWebaN2493T31%2Bse%2FOSXje36NOdQq3mXGeK0pzfny7eePiHG4%2FRuGKmcU6n3rnCs3OaNexct629PfCFJz7FMOW5o%2FwK0CKcRyh5C%2F%2Bv8HmqG0IFUan4HHFobN4pAdqS8kRq3QGNe7DmEk8yn9tmCvoH0Oe5lUiiftAZN0dz29CWCHpEXdsFFHAVdN9yafleX6GxqjtIIHxrt7%2Fcwrwa12CsgzUIaA9fRSdxgu1F2HyHNgg7ztfxgyzTxSaxOqywhM2gg7WfMF2Dlk6mF7ItdP3kYmWzpaEXQMKaNx7gGOrEB50Vh5odzQq1m8OANoqLQOpwEfdjPAIjHbKiycxMk8XZddj5amMGwg9KQksXtj9oHtWTyDzcGxjPT09JN3y8acv%2FCjzvjtwVL3ZdZ3G45A2kyH8HMmXREFt79hH286RQeVr6tYcMIZt2n6siiJLxjqPJm2lZv1Ym5SUtZf5q3w4e1WK6tye2ATTLhP0EspdgOcCALSP98FSOW3b%2F1m%2BQ6lNhJiNW5ssIBSIdVHLraZZnT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241018T031825Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY3W2PCQOF%2F20241018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b11f87a8cae347cae130c8a7d0fdf1e7ea07f75329b65638aead937da1ee8157&hash=db6c0e781a1fe73f4dd50ef1ecd8da41d2590ae14bdc17ca5255d38f2ef3db8d&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0304383524004361&tid=spdf-9f9bf466-0349-43d0-bc06-5430abd1ea2b&sid=227e28993c5a2341ae089d941d3b3d5ed64dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155d07535a565356500d&rr=8d456185cf832d82&cc=us
+url_pdf: https://pdf.sciencedirectassets.com/271023/1-s2.0-S0925443922X00094/1-s2.0-S0925443922001867/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJIMEYCIQDmenOGq2y2Fvsux%2Fb5meGiBk0xdER1rUT9W474lKEvJQIhAKyfIjOGsC5zlBBOkJe9RWcI1%2FHmn0VYKbBPpY8%2FErZlKrEFCDwQBRoMMDU5MDAzNTQ2ODY1IgxYw4RqKNykZ%2FK6eOgqjgV6h3jxXHOq6SBXNSM4OaQI6cArQ%2BAKNKTz6UMuLPrTtCc2caoyyTlqy8XbxSvh%2Bynrn7kR%2FphGmnkRSjAlbwwtUt1HBzGWWf9WNzFBekTs5fo8CwW%2B87BhcTOwosHVRuxJib527U7ngvDVAAueQplk2Wl1OQUWUYSy3NlhSLOM1K7P2l2gWcCxPYjgUs5XEKGgzXiknzr2cEEXnezEFlZGBDhyATU3qX8%2BGf39tfnPjj4f%2Bt40bZxgLLWUo7d5ry4xKuG0TZLbREduEpx9ij0bRFJLEKWvIVseX0%2BJyNvElvV%2FvbDZFUYMvzx3FlmAFiZrhOWGM5tyN7GZ12Pww60Y2lbx4Yheex46jq%2BxXTzbciqoYj4Oj1w6AiHsgyLyJ7hely75fSaTvz5rin98VAvUwq2XNc6i32au29q6R8X1mb8C%2BL9CwBwhhs%2F0J9SZ4Ox8I%2BuH5W9gRTJNujIzUCI7qFEykOxhbeLGdbidlKseD0MG3Djg%2Fd2aSMUO1cVtyZngLN6ekbTzmFsWbKujdNoRGoFExMQnetn3Xk50L4OcuQvm57oaej63C1TMUn%2BCbfoXh8iSDhP2md%2Bu2MFwmSbGp%2B3HRhLD1y%2FYBdLE9hJarRwdwQE8QocPV4zRLJmeROAp4gpXvhjcbtPNSI67PHWguG6Kt4vcbZHtbG9nw1zl0Qg%2BJFpzKuicG37uD1zXCipZeGfAk6BlX%2Bh5h5U5G8jA4A%2BU%2FQb2uQE5OijpK25aA4w3JQJQYzUEOHKbnCz42%2BCSwtrboWWaJPpiVSahg4a%2FP1OD%2F0JErhHA06pxIvy8UcQoWSdkfxpS7H5tMP%2BHDIu6zzY9KHYiQlTwlKSqByZ4IYkvTjSuDCk2xbO2hqIw9Z7HuAY6sAEgSdhlV7VBvOztoLax3U4bIoz0xifou5lio0H8%2F6wNC2BGmIJ81tmytyG0ARuGKWuQWU5bO519D7ur0tZZ9PiUM6I%2BNCmBawkmB5lbLNWPP6b6wOhKrxEZqVGCzz8qae3GU30EvUUiMmRY3okXVS35wc9M%2Bl0BeEG7ZBZ5oFVdBfwJGyluX5WEs8RPMY2QIUWApQPCxd%2F0tRWql4k9MPzdXztTiZx1rykUEpT6Co7eDw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241018T035755Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZDPNJ6S5%2F20241018%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=27b1b59a2d6563e61208930987ae71de137457f9a68f9869d3f70df8d5d4718f&hash=0d7f92742bc56d7e6a36281e67bdf09c3a6e0dea45aecb92142190b1a549fb15&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0925443922001867&tid=spdf-bc52135d-67a9-462b-89a1-a31269ce2c52&sid=227e28993c5a2341ae089d941d3b3d5ed64dgxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0f155d07535a590058505d&rr=8d459b65389a1103&cc=us
 url_code: ''
 url_dataset: ''
 url_poster: ''
