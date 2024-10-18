@@ -30,7 +30,7 @@ authors:
 author_notes:
   - 'Co-author'
 
-date: '2024-10-01T00:00:00Z'
+date: '2024-08-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -42,7 +42,7 @@ publishDate: '2024-08-12T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: "*Molecular and Cellular Biology, 44*(9)"
 publication_short: 
 
 abstract: A significant number of the genetic alterations observed in cancer patients lie within nonprotein-coding segments of the genome, including regions coding for long noncoding RNAs (lncRNAs). LncRNAs display aberrant expression in breast cancer (BrCa), but the functional implications of this altered expression remain to be elucidated. By performing transcriptome screen in a triple negative BrCa (TNBC) isogenic 2D and 3D spheroid model, we observed aberrant expression of >1000 lncRNAs during BrCa progression. The chromatin-associated lncRNA MANCR shows elevated expression in metastatic TNBC. MANCR is upregulated in response to cellular stress and modulates DNA repair and cell proliferation. MANCR promotes metastasis as MANCR-depleted cells show reduced cell migration, invasion, and wound healing in vitro, and reduced metastatic lung colonization in xenograft experiments in vivo. Transcriptome analyses reveal that MANCR modulates expression and pre-mRNA splicing of genes, controlling DNA repair and checkpoint response. MANCR promotes the transcription of NET1A, a Rho-GEF that regulates DNA damage checkpoint and metastatic processes in cis, by differential promoter usage. Experiments suggest that MANCR regulates the expression of cancer-associated genes by modulating the association of various transcription factors and RNA-binding proteins. Our results identified the metastasis-promoting activities of MANCR in TNBC by cis-regulation of gene expression.
