@@ -1,5 +1,5 @@
 ---
-title: "The role of cholesterol metabolism and homeostasis in immune regulation and cancer pathophysiology."
+title: "The role of cholesterol metabolism and homeostasis in immune regulation and cancer pathophysiology (in progress)"
 authors:
 - admin
 date: "2024-10-01T00:00:00Z"
