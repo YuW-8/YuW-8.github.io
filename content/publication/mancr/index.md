@@ -1,5 +1,5 @@
 ---
-title: 'The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response'
+title: 'MANCR lncRNA Modulates Cell-Cycle Progression and Metastasis by Cis-Regulation of Nuclear Rho-GEF'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,34 +10,33 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Co-author'
 
 date: '2024-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-08-12T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['manuscript']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
 publication: 
 publication_short: 
 
-abstract: N/A
+abstract: A significant number of the genetic alterations observed in cancer patients lie within nonprotein-coding segments of the genome, including regions coding for long noncoding RNAs (lncRNAs). LncRNAs display aberrant expression in breast cancer (BrCa), but the functional implications of this altered expression remain to be elucidated. By performing transcriptome screen in a triple negative BrCa (TNBC) isogenic 2D and 3D spheroid model, we observed aberrant expression of >1000 lncRNAs during BrCa progression. The chromatin-associated lncRNA MANCR shows elevated expression in metastatic TNBC. MANCR is upregulated in response to cellular stress and modulates DNA repair and cell proliferation. MANCR promotes metastasis as MANCR-depleted cells show reduced cell migration, invasion, and wound healing in vitro, and reduced metastatic lung colonization in xenograft experiments in vivo. Transcriptome analyses reveal that MANCR modulates expression and pre-mRNA splicing of genes, controlling DNA repair and checkpoint response. MANCR promotes the transcription of NET1A, a Rho-GEF that regulates DNA damage checkpoint and metastatic processes in cis, by differential promoter usage. Experiments suggest that MANCR regulates the expression of cancer-associated genes by modulating the association of various transcription factors and RNA-binding proteins. Our results identified the metastasis-promoting activities of MANCR in TNBC by cis-regulation of gene expression.
 
 # Summary. An optional shortened abstract.
 summary: N/A
 
 tags:
-  - Journal article (in preparation)
+  - Journal article
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
