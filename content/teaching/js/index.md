@@ -1,6 +1,6 @@
 ---
-title: 
-summary: 
+title: A
+summary: A
 date: 
 type: docs
 math: false
