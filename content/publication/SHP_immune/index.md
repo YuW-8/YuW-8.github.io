@@ -28,8 +28,11 @@ abstract: Although survival from breast cancer has dramatically increased, many 
 summary: 
 
 tags:
-- Source Themes
-featured: false
+- Journal Article
+
+featured: true
+
+links:
 
 # links:
 # - name: ""
