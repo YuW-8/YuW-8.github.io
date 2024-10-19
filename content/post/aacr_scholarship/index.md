@@ -8,6 +8,6 @@ tags:
   - Poster
   - Award
 image:
-  caption: 'Recipients of 2024 AACR-Gilead and Kite Scholar- in-Training Awards'
+  caption: 'Recipients of 2024 AACR-Gilead and Kite Scholar-in-Training Awards'
 ---
 
