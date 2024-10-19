@@ -1,5 +1,5 @@
 ---
-title: 🎉 Best poster presentation 🎉
+title: 🎉 Best poster presentation
 summary: Best poster presentation at Nuclear Receptors at the Intersection of Cancer and Engineering Symposium
 date: 2024-09-18
 
