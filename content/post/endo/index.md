@@ -1,5 +1,5 @@
 ---
-title: 👩🏻‍💼 Poster presentation at ENDO 2023
+title: 👩🏻‍💼 Early Career Forum Travel Award
 summary: Poster presentation at ENDO 2023
 date: 2023-06-15
 authors:
