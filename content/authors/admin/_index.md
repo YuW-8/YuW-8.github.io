@@ -52,32 +52,23 @@ education:
     institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-19
     summary: |
-      Thesis on The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response. Supervised by Dr. Erik R. Nelson (https://mcb.illinois.edu/directory/profile/enels). 
+      Thesis on **The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response**. Supervised by [Dr. Erik R. Nelson](https://mcb.illinois.edu/directory/profile/enels). 
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: ''
   - area: MS Library and Information Science, with Focus in Bioinformatics
     institution: University of Illinois Urbana-Champaign
     date_start: 2017-01-01
     date_end: 2019-12-31
     summary: |
-      GPA: 3.8/4.0
+      Thesis on Literature-Based Discovery of Known and Potential New Mechanisms for Relating the Status of Cholesterol to the Progression of Breast Cancer. Co-supervised by [Dr. Vetle I. Torvik](http://abel.ischool.illinois.edu/index.html) and [Dr. Erik R. Nelson](https://mcb.illinois.edu/directory/profile/enels).
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Molecular Biology
     institution: Indiana University Bloomington
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    summary: 
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
