@@ -9,7 +9,7 @@ tags:
   - Education
   
 image:
-  caption: ''
+  caption: 'School of Molecular & Cellular Biology'
 ---
 
 [Department of Molecular & Integrative Physiology](https://mcb.illinois.edu/departments/molecular-integrative-physiology) aim to understand gene products across various levels of biological organization, ranging from molecules and macromolecular complexes to cells, tissues, and entire organisms. Utilizing molecular genetics, biophysics, and contemporary systems biology, physiologists are leading the way in life and biomedical sciences.
