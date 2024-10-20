@@ -106,15 +106,19 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 99
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 99
+        icon: devicon/rstudio
+      - name: Shell
+        description: ''
+        percent: 99
+        icon: devicon/bash
       - name: SQL
         description: ''
-        percent: 40
+        percent: 90
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
