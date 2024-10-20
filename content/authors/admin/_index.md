@@ -48,7 +48,7 @@ interests:
   - Next-Generation Sequencing (NGS)
 
 education:
-  - area: PhD candidate Molecular and Integrative Physiology, with focus in Immuno-oncology (5th year)
+  - area: PhD Molecular and Integrative Physiology, with focus in Immuno-oncology (Expected Graduation 2025)
     institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-19
     summary: |
