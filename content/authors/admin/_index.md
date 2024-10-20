@@ -72,7 +72,20 @@ education:
     summary: 
 
 work:
-  - position: Research Technician -- wet lab relevant
+ - position: Graduate Research Assistant -- wet lab relevant
+    company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-08-01
+    date_end: 
+    summary: |2-
+      Responsibilities include:
+      - Investigate the role of Liver Receptor Homology 1 (LRH-1) in regulating neutrophil functions relevant to cancer progression
+      - Conducted physical, chemical, and biological laboratory experiments, supporting data acquisition from cell cultures, mouse studies, and genotyping to advance research objectives
+      - Set up appropriate instruments, materials, and apparatuses; operate laboratory equipment required for genotyping
+      - Collaborated with colleagues on various tasks, including data collection and analysis, to enhance research outcomes and foster a team-oriented environment
+
+ - position: Research Technician -- wet lab relevant
     company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
@@ -80,10 +93,11 @@ work:
     date_end: 2020-07-01
     summary: |2-
       Responsibilities include:
-      - Managed rodent husbandry and handling, including manual restraint, injections, tumor measurement, and necropsy, ensuring adherence to ethical and regulatory standards.
-      - Conducted physical, chemical, and biological laboratory experiments, supporting data acquisition from cell cultures, mouse studies, and genotyping to advance research objectives
-      - Set up appropriate instruments, materials, and apparatuses; operate laboratory equipment required for genotyping
-      - Collaborated with colleagues on various tasks, including data collection and analysis, to enhance research outcomes and foster a team-oriented environment
+      - Managed rodent husbandry and handling, including manual restraint, injections, tumor measurement, and necropsy, ensuring adherence to ethical and regulatory standards
+      - Applied both _in vitro_ and _in vivo_ methodologies to design and execute hypothesis-driven experiments, enhancing the robustness of research findings
+      - Developed RNA sequencing analysis pipelines for the laboratory, incorporating advanced network analysis techniques such as Weighted Gene Co-expression Network Analysis (WGCNA) to derive meaningful insights
+      - Collaborated effectively with colleagues within the laboratory and across departments to drive interdisciplinary research initiatives and share knowledge
+      - Mentor and supervise 4 undergraduate student researchers in experiment setup, execution, and data analysis, enhancing their practical skills and research competencies
 
   - position: Research Assistant -- dry lab relevant
     company_name: School of Information Sciences at University of Illinois Urbana-Champaign
