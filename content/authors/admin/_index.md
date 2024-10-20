@@ -109,7 +109,7 @@ skills:
       - name: Cell culture
         description: ''
         percent: 99
-        icon: 
+        icon: icon/pipette
       - name: Immune-oncology cell assays
         description: ''
         percent: 99
