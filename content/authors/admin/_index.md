@@ -57,7 +57,7 @@ education:
       text: 'Read Thesis'
       url: ''
     icon: heroicons/window
-      url: https://mcb.illinois.edu/directory/profile/enels
+      url: 'https://mcb.illinois.edu/directory/profile/enels'
 
   - area: MS Library and Information Science, with Focus in Bioinformatics
     institution: University of Illinois Urbana-Champaign
