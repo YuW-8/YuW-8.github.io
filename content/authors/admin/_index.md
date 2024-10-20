@@ -109,19 +109,19 @@ skills:
       - name: Cell culture
         description: ''
         percent: 99
-        icon: custom/pipette
+        icon: hero/eye-dropper
       - name: Immune-oncology cell assays
         description: ''
         percent: 99
-        icon: 
+        icon: hero/beaker
       - name: Flow cytometry
         description: ''
         percent: 99
-        icon: 
+        icon: hero/funnel
       - name: Bioluminescence imaging
         description: ''
         percent: 99
-        icon: 
+        icon: hero/camera
   - name: Dry lab
     color: '#85C1E9'
     color_border: '#85C1E9'
