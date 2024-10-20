@@ -102,7 +102,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Highlighted dry lab skills
+  - name: Dry lab
     items:
       - name: Python
         description: ''
@@ -120,7 +120,9 @@ skills:
         description: ''
         percent: 90
         icon: circle-stack
-  - name: Highlighted wet lab skills
+  - name: Wet lab
+    color: '#eeac02'
+    color_border: '#f0bf23'
     items:
       - name: Mammalian cell culture
         description: ''
