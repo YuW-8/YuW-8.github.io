@@ -30,6 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
+  
+
+  - block: resume-skills
+    content:
+      title: Skills
+      # Note: `username` refers to the user's folder name in `content/authors/`
+      username: admin
+  
   - block: markdown
     content:
       title: 'My Career Goal and Dedication'
@@ -100,7 +108,7 @@ sections:
         padding: [0, 0, 0, 0]
 
 
-        
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
