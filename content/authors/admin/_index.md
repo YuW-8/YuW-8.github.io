@@ -44,7 +44,8 @@ profiles:
 
 
 interests:
-  - Translational Immuno-Oncology (TIO)
+  - Translational Immuno-Oncology
+  - Drug Discovery
   - Next-Generation Sequencing (NGS)
 
 education:
