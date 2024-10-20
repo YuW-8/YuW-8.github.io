@@ -113,6 +113,33 @@ work:
       - Utilized the ‘Brat’ tool to annotate treatment entities, ensuring precise classification according to established thesis guidelines, demonstrating strong attention to detail
       - Collaborated with interdisciplinary teams to advance research methodologies, contributing to the integration of machine learning techniques in biomedical studies
 
+  - position: Research Assistant -- dry lab relevant
+    company_name: School of Information Sciences at University of Illinois Urbana-Champaign
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: 2019-06-01
+    summary: |
+      Responsibilities include:
+      - Proposed and completed master’s-level thesis research on the correlation between breast cancer and cholesterol
+      - Applied literature-based discovery (LBD) methodologies to extract and analyze data from scientific literature, uncovering potential mechanisms linking cholesterol and breast cancer through data-driven insights
+      - Utilized the Arrowsmith website and PubMed to perform comparative analysis of research studies, leveraging text mining techniques to aggregate relevant data on how cholesterol influences breast cancer progression
+      - Formulated and tested hypotheses regarding cholesterol and breast cancer associations, employing analytical reasoning and modeling to propose new research directions and inform future studies
+  
+  - position: Undergraduate Research Assistant -- dry lab relevant
+    company_name: School of Informatics at Indiana University
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-01
+    date_end: 2017-06-01
+    summary: |
+      Responsibilities include:
+      - Discovered gene interaction of the bacterial butyrate synthesis pathways (acetyl-CoA, glutarate, 4-aminobutyrate, and lysine pathways) between microbial species (Firmicutes, Proteobacteria, Fusobacteria, etc.) and their hosts through literature review
+      - Discovered gene interaction of the bacterial butyrate synthesis pathways (acetyl-CoA, glutarate, 4-aminobutyrate, and lysine pathways) between microbial species (Firmicutes, Proteobacteria, Fusobacteria, etc.) and their hosts through literature review
+      - Developed proficiency in Linux for managing gene sequence data, enhancing data processing capabilities and ensuring efficient handling of large genomic datasets in research projects
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
