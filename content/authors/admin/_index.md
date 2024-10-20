@@ -72,7 +72,7 @@ education:
     summary: 
 
 work:
- - position: Graduate Research Assistant -- wet lab relevant
+  - position: Graduate Research Assistant -- wet lab relevant
     company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
@@ -85,7 +85,7 @@ work:
       - Set up appropriate instruments, materials, and apparatuses; operate laboratory equipment required for genotyping
       - Collaborated with colleagues on various tasks, including data collection and analysis, to enhance research outcomes and foster a team-oriented environment
 
- - position: Research Technician -- wet lab relevant
+  - position: Research Technician -- wet lab relevant
     company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
