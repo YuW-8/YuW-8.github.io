@@ -8,7 +8,7 @@ main:
     url: /
     weight: 10
   - name: Skills & Certifications
-    url: skills/
+    url: certifications/
     weight: 11
   - name: Publications
     url: publication/

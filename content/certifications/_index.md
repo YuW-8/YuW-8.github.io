@@ -1,6 +1,6 @@
 ---
-title: Teaching
-summary: My courses
+title: Skills & Certifications
+summary: My certifications
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: certifications
     content:
       title: Teaching
       filters:
         folders:
-          - teaching
+          - certifications
     design:
       view: article-grid
       columns: 2
