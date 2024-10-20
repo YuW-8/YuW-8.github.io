@@ -136,27 +136,11 @@ skills:
         description: ''
         percent: 99
         icon: 
-      - name: Confocal microscope
+      - name: Bioluminescence imaging
         description: ''
-        percent: 90
+        percent: 99
         icon: 
-  - name: Hobbies
-    demo: true
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Dogs
-        description: ''
-        percent: 100
-        icon: dog
-      - name: Crossfit
-        description: ''
-        percent: 60
-        icon: custom/cf
+
 
 languages:
   - name: Chinese
