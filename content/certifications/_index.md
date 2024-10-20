@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: certifications
     content:
-      title: Teaching
+      title: Skills & Certifications
       filters:
         folders:
           - certifications
