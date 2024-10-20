@@ -103,8 +103,8 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Wet lab
-    color: '#D7BDE2'
-    color_border: '#D7BDE2  '
+    color: '#C39BD3'
+    color_border: '#C39BD3'
     items:
       - name: Cell culture
         description: ''
@@ -123,6 +123,8 @@ skills:
         percent: 99
         icon: 
   - name: Dry lab
+    color: '#85C1E9'
+    color_border: '#85C1E9'
     items:
       - name: Python
         description: ''
