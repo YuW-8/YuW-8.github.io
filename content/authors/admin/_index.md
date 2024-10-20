@@ -63,7 +63,7 @@ education:
     date_end: 2019-12-31
     summary:
       Thesis on **Literature-Based Discovery of Known and Potential New Mechanisms for Relating the Status of Cholesterol to the Progression of Breast Cancer**. Co-supervised by Dr. Vetle I. Torvik[http://abel.ischool.illinois.edu/index.html] and Dr. Erik R. Nelson [https://mcb.illinois.edu/directory/profile/enels].
-      button:
+    button:
       text: 'Nelson Lab'
       url: 'https://mcb.illinois.edu/directory/profile/enels'
 
