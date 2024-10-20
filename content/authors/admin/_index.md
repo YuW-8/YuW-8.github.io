@@ -56,7 +56,8 @@ education:
     button:
       text: 'Read Thesis'
       url: ''
-    icon: heroicons/window
+    button: heroicons/window
+      text: 'Nelson lab'
       url: 'https://mcb.illinois.edu/directory/profile/enels'
 
   - area: MS Library and Information Science, with Focus in Bioinformatics
