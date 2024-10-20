@@ -25,6 +25,7 @@ sections:
     design:
       show_skill_percentage: true
   - block: resume-awards
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Awards
       username: admin
