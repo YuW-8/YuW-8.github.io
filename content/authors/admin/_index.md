@@ -56,9 +56,8 @@ education:
     button:
       text: 'Read Thesis'
       url: ''
-    - icon: heroicons/window
+    icon: heroicons/window
       url: https://mcb.illinois.edu/directory/profile/enels
-      label: Nelson lab
 
   - area: MS Library and Information Science, with Focus in Bioinformatics
     institution: University of Illinois Urbana-Champaign
