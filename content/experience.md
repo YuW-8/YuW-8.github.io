@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Full Professional Experience'
 date: 2023-10-24
 type: landing
 
@@ -12,7 +12,6 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: Full professional experience
       username: admin
     design:
       # Hugo date format
