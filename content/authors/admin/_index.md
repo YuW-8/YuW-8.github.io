@@ -110,7 +110,7 @@ skills:
         description: ''
         percent: 99
         icon: hero/eye-dropper
-      - name: Immune-oncology cell assays
+      - name: Immunology assays
         description: ''
         percent: 99
         icon: hero/beaker
