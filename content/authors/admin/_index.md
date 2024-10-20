@@ -71,7 +71,7 @@ education:
     date_end: 2020-12-31
     summary: 
 
-Recent Professional experience:
+work:
   - position: Research Technician -- _wet lab relevant_
     company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
     company_url: ''
