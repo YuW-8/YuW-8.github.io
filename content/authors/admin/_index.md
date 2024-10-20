@@ -52,7 +52,7 @@ education:
     institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-19
     summary: |
-      Thesis on **The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response**. \n
+      Thesis on **The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response**. 
       Supervised by _Dr. Erik R. Nelson_. 
     button:
       text: 'Read Thesis'
