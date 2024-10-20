@@ -150,7 +150,7 @@ skills:
     color: '#C39BD3'
     color_border: '#C39BD3'
     items:
-      - name: Cell culture
+      - name: Mammalian cell culture
         description: ''
         percent: 99
         icon: hero/eye-dropper
