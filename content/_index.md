@@ -34,7 +34,7 @@ sections:
 
   - block: resume-skills
     content:
-      title: Skills
+      title: Highlighted Skills
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
   
