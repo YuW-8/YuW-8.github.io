@@ -102,6 +102,26 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+  - name: Wet lab
+    color: '#D7BDE2'
+    color_border: '#D7BDE2  '
+    items:
+      - name: Cell culture
+        description: ''
+        percent: 99
+        icon: 
+      - name: Immune-oncology cell assays
+        description: ''
+        percent: 99
+        icon: 
+      - name: Flow cytometry
+        description: ''
+        percent: 99
+        icon: 
+      - name: Bioluminescence imaging
+        description: ''
+        percent: 99
+        icon: 
   - name: Dry lab
     items:
       - name: Python
@@ -120,27 +140,6 @@ skills:
         description: ''
         percent: 90
         icon: circle-stack
-  - name: Wet lab
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Mammalian cell culture
-        description: ''
-        percent: 99
-        icon: 
-      - name: Immune-oncology cell assays
-        description: ''
-        percent: 99
-        icon: 
-      - name: Multicolor flow cytometry
-        description: ''
-        percent: 99
-        icon: 
-      - name: Bioluminescence imaging
-        description: ''
-        percent: 99
-        icon: 
-
 
 languages:
   - name: Chinese
