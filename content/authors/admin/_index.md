@@ -52,23 +52,18 @@ education:
     institution: University of Illinois Urbana-Champaign
     date_start: 2020-08-19
     summary: |
-      Thesis on **The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response**. Supervised by Dr. Erik R. Nelson. 
+      Thesis on **The role of Liver Receptor Homolog 1 (LRH-1) in regulating breast cancer progression by modulating the immune response**. Supervised by _Dr. Erik R. Nelson_. 
     button:
       text: 'Read Thesis'
       url: ''
-    button: heroicons/window
-      text: 'Nelson lab'
-      url: 'https://mcb.illinois.edu/directory/profile/enels'
 
   - area: MS Library and Information Science, with Focus in Bioinformatics
     institution: University of Illinois Urbana-Champaign
     date_start: 2017-01-01
     date_end: 2019-12-31
     summary:
-      Thesis on **Literature-Based Discovery of Known and Potential New Mechanisms for Relating the Status of Cholesterol to the Progression of Breast Cancer**. Co-supervised by Dr. Vetle I. Torvik[http://abel.ischool.illinois.edu/index.html] and Dr. Erik R. Nelson [https://mcb.illinois.edu/directory/profile/enels].
-    button:
-      text: 'Nelson Lab'
-      url: 'https://mcb.illinois.edu/directory/profile/enels'
+      Thesis on **Literature-Based Discovery of Known and Potential New Mechanisms for Relating the Status of Cholesterol to the Progression of Breast Cancer**. Co-supervised by _Dr. Vetle I. Torvik_ and _Dr. Erik R. Nelson_.
+    
 
   - area: BS Molecular Biology
     institution: Indiana University Bloomington
