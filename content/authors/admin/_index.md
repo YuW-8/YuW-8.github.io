@@ -137,7 +137,7 @@ skills:
       - name: Shell
         description: ''
         percent: 99
-        icon: devicon/bash
+        icon: hero/command-line
       - name: SQL
         description: ''
         percent: 90
