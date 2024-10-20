@@ -71,29 +71,33 @@ education:
     date_end: 2020-12-31
     summary: 
 
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+Recent Professional experience:
+  - position: Research Technician -- _wet lab relevant_
+    company_name: Department of Molecular and Integrative Physiology at University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2019-07-01
+    date_end: 2020-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Managed rodent husbandry and handling, including manual restraint, injections, tumor measurement, and necropsy, ensuring adherence to ethical and regulatory standards.
+      - Conducted physical, chemical, and biological laboratory experiments, supporting data acquisition from cell cultures, mouse studies, and genotyping to advance research objectives
+      - Set up appropriate instruments, materials, and apparatuses; operate laboratory equipment required for genotyping
+      - Collaborated with colleagues on various tasks, including data collection and analysis, to enhance research outcomes and foster a team-oriented environment
+
+  - position: Research Assistant -- _dry lab relevant_
+    company_name: School of Information Sciences at University of Illinois Urbana-Champaign
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-07-01
+    date_end: 2020-07-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leveraged biomedical expertise to assist in training machine learning models across various projects, enhancing predictive accuracy in healthcare applications
+      - Facilitated research on treatment entity annotation for breast cancer and diabetes, contributing to the development of datasets used in machine learning algorithms
+      - Reviewed and analyzed abstracts from PubMed research papers, meticulously identifying and extracting treatment references to create high-quality training data for machine learning applications
+      - Utilized the ‘Brat’ tool to annotate treatment entities, ensuring precise classification according to established thesis guidelines, demonstrating strong attention to detail
+      - Collaborated with interdisciplinary teams to advance research methodologies, contributing to the integration of machine learning techniques in biomedical studies
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
