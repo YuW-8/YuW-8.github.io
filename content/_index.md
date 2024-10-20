@@ -44,7 +44,7 @@ sections:
         Please feel free to reach out if you’re interested in working with me 😃
     design:
       columns: '1'
-      
+
   - block: markdown
     content:
       title: '📚 My Current Research'
@@ -98,6 +98,9 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+
+        
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

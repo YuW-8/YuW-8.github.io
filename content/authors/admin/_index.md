@@ -137,7 +137,7 @@ skills:
         percent: 80
         icon: camera
 
-Hobbies:
+hobbies:
   color: '#eeac02'
   color_border: '#f0bf23'
   items:
