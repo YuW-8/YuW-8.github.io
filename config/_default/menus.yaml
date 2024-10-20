@@ -7,15 +7,12 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Skills
+  - name: Skills & Certifications
     url: skills/
     weight: 11
   - name: Publications
     url: publication/
     weight: 12
-  - name: Teaching
-    url: teaching/
-    weight: 13
   - name: Experience
     url: experience/
     weight: 20
