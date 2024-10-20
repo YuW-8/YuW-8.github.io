@@ -44,6 +44,7 @@ sections:
         Please feel free to reach out if you’re interested in working with me 😃
     design:
       columns: '1'
+      
   - block: markdown
     content:
       title: '📚 My Current Research'
