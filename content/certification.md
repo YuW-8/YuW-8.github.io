@@ -14,35 +14,35 @@ sections:
       text: 
       items:
         - name: Mammalian cell culture
-          description: 99%
+          description: 
           icon: custom/cell
           icon_pack: 
         - name: Immune-oncology cell assays
-          description: 99%
+          description: 
           icon: custom/assay
           icon_pack: 
         - name: Multicolor flow cytometry
-          description: 99%
+          description: 
           icon: custom/cytometry
           icon_pack: 
         - name: ImageStream flow cytometry
-          description: 99%
+          description: 
           icon: custom/cytometry
           icon_pack: 
         - name: PCR/qPCR
-          description: 99%
+          description: 
           icon: custom/dna
           icon_pack: 
         - name: Nucleofection
-          description: 95%
+          description: 
           icon: custom/dna
           icon_pack:
         - name: Western blotting/SDS-PAGE
-          description: 90%
+          description: 
           icon: custom/protein
           icon_pack:
         - name: Confocal microscope
-          description: 80%
+          description: 
           icon: custom/camera
           icon_pack:
   
@@ -52,15 +52,15 @@ sections:
       text: 
       items:
         - name: Rodent husbandry and handling
-          description: 99%
+          description: 
           icon: 
           icon_pack: 
         - name: Sample/tissue collection
-          description: 99%
+          description: 
           icon: 
           icon_pack: 
         - name: Bioluminescence imaging
-          description: 99%
+          description: 
           icon: 
           icon_pack: 
         
@@ -70,19 +70,19 @@ sections:
       text: 
       items:
         - name: R
-          description: 99%
+          description: 
           icon: devicon/rstudio
           icon_pack: 
         - name: Python
-          description: 99%
+          description: 
           icon: code-bracket
           icon_pack: 
         - name: Shell
-          description: 99%
+          description: 
           icon: hero/command-line
           icon_pack: 
         - name: SQL
-          description: 90%
+          description: 
           icon: circle-stack
           icon_pack: 
 ---
