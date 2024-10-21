@@ -3,6 +3,9 @@ title: 'Skills and Certifications'
 date: 2024-05-19
 type: landing
 
+design:
+  spacing: '5rem'
+
 # Page sections
 sections:
   - block: features
