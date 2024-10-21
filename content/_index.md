@@ -37,6 +37,8 @@ sections:
       title: Highlighted Skills
       # Note: `username` refers to the user's folder name in `content/authors/`
       username: admin
+    design:
+      rows: '1'
   
   - block: markdown
     content:
