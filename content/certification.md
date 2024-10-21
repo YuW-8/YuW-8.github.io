@@ -63,10 +63,14 @@ sections:
           description: 
           icon: 
           icon_pack: 
+        - name: Syngeneic mouse tumor models
+          description: 
+          icon: 
+          icon_pack:
         
   - block: features
     content:
-      title: Dry Lab Skillset
+      title: Programming Skillset
       text: 
       items:
         - name: R
@@ -84,5 +88,9 @@ sections:
         - name: SQL
           description: 
           icon: circle-stack
+          icon_pack: 
+        - name: YAML
+          description: 
+          icon: hero/code-bracket-square
           icon_pack: 
 ---
