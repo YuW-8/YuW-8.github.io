@@ -15,35 +15,35 @@ sections:
       items:
         - name: Mammalian cell culture
           description: 99%
-          icon: eye-dropper
-          icon_pack: hero
+          icon: custom/cell
+          icon_pack: 
         - name: Immune-oncology cell assays
           description: 99%
-          icon: beaker
-          icon_pack: hero
+          icon: custom/assay
+          icon_pack: 
         - name: Multicolor flow cytometry
           description: 99%
-          icon: funnel
-          icon_pack: hero
+          icon: custom/cytometry
+          icon_pack: 
         - name: ImageStream flow cytometry
           description: 99%
-          icon: camera
-          icon_pack: hero
+          icon: custom/cytometry
+          icon_pack: 
         - name: PCR/qPCR
           description: 99%
           icon: custom/dna
           icon_pack: 
         - name: Nucleofection
           description: 95%
-          icon: 
+          icon: custom/dna
           icon_pack:
         - name: Western blotting/SDS-PAGE
           description: 90%
-          icon: 
+          icon: custom/protein
           icon_pack:
         - name: Confocal microscope
           description: 80%
-          icon: 
+          icon: custom/camera
           icon_pack:
   
   - block: features
@@ -71,18 +71,18 @@ sections:
       items:
         - name: R
           description: 99%
-          icon: 
+          icon: devicon/rstudio
           icon_pack: 
         - name: Python
           description: 99%
-          icon: 
+          icon: code-bracket
           icon_pack: 
         - name: Shell
           description: 99%
-          icon: 
+          icon: hero/command-line
           icon_pack: 
         - name: SQL
           description: 90%
-          icon: 
+          icon: circle-stack
           icon_pack: 
 ---
