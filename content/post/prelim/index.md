@@ -15,4 +15,4 @@ tags:
   - Milestones
 ---
 
-**I’m excited to announce that I’ve successfully completed my PhD preliminary exams and am now officially a PhD candidate!**
+**I’m excited to announce that I’ve successfully completed my PhD preliminary exam and am now officially a PhD candidate!**
