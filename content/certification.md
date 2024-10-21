@@ -67,6 +67,28 @@ sections:
           description: 
           icon: 
           icon_pack:
+  
+  - block: features
+    content:
+      title: Bioinformatics Pipeline
+      text: 
+      items:
+        - name: Bulk RNA-Seq
+          description: GEO dataset [GSE241915](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241915)
+          icon: 
+          icon_pack: 
+        - name: NanoString
+          description: 
+          icon: 
+          icon_pack: 
+        - name: scRNA-Seq
+          description: 
+          icon: 
+          icon_pack: 
+        - name: ATAC-Seq
+          description: 
+          icon: 
+          icon_pack:
         
   - block: features
     content:
