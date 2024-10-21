@@ -32,7 +32,7 @@ sections:
         - name: PCR/qPCR
           description: 99%
           icon: dna
-          icon_pack: icons/custom
+          icon_pack: custom
         - name: Nucleofection
           description: 95%
           icon: 
