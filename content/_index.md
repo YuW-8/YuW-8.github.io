@@ -50,7 +50,10 @@ sections:
         
         With my proficiency in both wet and dry lab methodologies, I am poised to drive the transformation of scientific breakthroughs into practical applications that enhance patient care and improve lives.
         
-        Please feel free to "[reach out](mailto:wangy0317@gmail.com)" if you’re interested in working with me 😃
+        Please feel free to reach out if you’re interested in working with me 😃
+      button:
+        text: Email Yu Wang
+        url: 'mailto:wangy0317@gmail.com'
     design:
       columns: '1'
 
