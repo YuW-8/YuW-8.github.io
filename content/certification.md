@@ -74,11 +74,11 @@ sections:
       text: 
       items:
         - name: Bulk RNA-Seq
-          description: GEO dataset [GSE241915](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE241915)
+          description: GEO dataset GSE241915, GSE241916
           icon: 
           icon_pack: 
         - name: NanoString
-          description: 
+          description: GEO dataset GSE241917
           icon: 
           icon_pack: 
         - name: scRNA-Seq
