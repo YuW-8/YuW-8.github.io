@@ -15,8 +15,8 @@ sections:
       items:
         - name: Mammalian cell culture
           description: 99%
-          icon: 
-          icon_pack: 
+          icon: eye-dropper
+          icon_pack: hero
         - name: Immune-oncology cell assays
           description: 99%
           icon: 
@@ -74,15 +74,15 @@ sections:
           icon: 
           icon_pack: 
         - name: Python
-          description: 100%
+          description: 99%
           icon: 
           icon_pack: 
         - name: Shell
-          description: 
+          description: 99%
           icon: 
           icon_pack: 
         - name: SQL
-          description: 
+          description: 90%
           icon: 
           icon_pack: 
 ---
