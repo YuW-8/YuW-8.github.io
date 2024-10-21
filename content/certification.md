@@ -56,15 +56,15 @@ sections:
           icon: 
           icon_pack: 
         - name: Sample/tissue collection
-          description: 
+          description: custom/lung
           icon: 
           icon_pack: 
         - name: Bioluminescence imaging
-          description: 
+          description: custom/camera
           icon: 
           icon_pack: 
         - name: Syngeneic mouse tumor models
-          description: 
+          description: custom/cell
           icon: 
           icon_pack:
   
