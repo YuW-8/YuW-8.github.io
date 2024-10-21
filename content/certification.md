@@ -19,20 +19,20 @@ sections:
           icon_pack: hero
         - name: Immune-oncology cell assays
           description: 99%
-          icon: 
-          icon_pack: 
+          icon: beaker
+          icon_pack: hero
         - name: Multicolor flow cytometry
           description: 99%
-          icon: 
-          icon_pack: 
+          icon: funnel
+          icon_pack: hero
         - name: ImageStream flow cytometry
           description: 99%
-          icon: 
-          icon_pack:
+          icon: camera
+          icon_pack: hero
         - name: PCR/qPCR
           description: 99%
-          icon: 
-          icon_pack:
+          icon: dna
+          icon_pack: icons/custom
         - name: Nucleofection
           description: 95%
           icon: 
