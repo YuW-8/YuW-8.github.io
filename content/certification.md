@@ -10,7 +10,7 @@ design:
 sections:
   - block: features
     content:
-      title: _In vitro_ Skillset
+      title: _In Vitro_ Skillset
       text: 
       items:
         - name: Mammalian cell culture
@@ -45,22 +45,44 @@ sections:
           description: 80%
           icon: 
           icon_pack:
-
+  
+  - block: features
+    content:
+      title: _In Vivo_ Skillset
+      text: 
+      items:
+        - name: Rodent husbandry and handling
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: Sample/tissue collection
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: Bioluminescence imaging
+          description: 99%
+          icon: 
+          icon_pack: 
+        
   - block: features
     content:
       title: Dry Lab Skillset
       text: 
       items:
         - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: Python
           description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+          icon: 
+          icon_pack: 
+        - name: Shell
+          description: 
+          icon: 
+          icon_pack: 
+        - name: SQL
+          description: 
+          icon: 
+          icon_pack: 
 ---
