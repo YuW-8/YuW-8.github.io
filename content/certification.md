@@ -3,10 +3,6 @@ title: 'Skills and Certifications'
 date: 2024-05-19
 type: landing
 
-design:
-  # Section spacing
-  spacing: "6rem"
-
 # Page sections
 sections:
   - block: features
@@ -28,6 +24,5 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-    design:
-      show_percentage: true
+
 ---
