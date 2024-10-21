@@ -31,8 +31,8 @@ sections:
           icon_pack: hero
         - name: PCR/qPCR
           description: 99%
-          icon: dna
-          icon_pack: custom
+          icon: custom/dna
+          icon_pack: 
         - name: Nucleofection
           description: 95%
           icon: 
