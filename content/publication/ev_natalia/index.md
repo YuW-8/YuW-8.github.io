@@ -35,7 +35,7 @@ tags:
 
 featured: true
 
-links: https://www.biorxiv.org/content/10.1101/2024.08.02.606061v1
+links:
 
 # links:
 # - name: ""
