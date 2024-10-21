@@ -6,7 +6,7 @@ math: true
 authors:
   - admin
 tags:
-  - Education
+  - Milestones
   
 image:
   caption: 'School of Molecular & Cellular Biology'
