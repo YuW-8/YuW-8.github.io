@@ -1,7 +1,7 @@
 ---
 title: 👩🏻‍🏫 Blitz talk at Midwest Tumor Microenvironment Meeting 2023
 summary: 
-date: 2023-05-01
+date: 2023-05-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
