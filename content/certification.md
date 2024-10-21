@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Section spacing
-  spacing: '5rem'
+  spacing: "6rem"
 
 # Page sections
 sections:
@@ -29,5 +29,5 @@ sections:
           icon: camera-retro
           icon_pack: fas
     design:
-      show_skill_percentage: true
+      show_percentage: true
 ---
