@@ -10,7 +10,7 @@ design:
 sections:
   - block: features
     content:
-      title: Wet Lab Skillset
+      title: _In vitro_ Skillset
       text: 
       items:
         - name: Mammalian cell culture
