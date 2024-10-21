@@ -16,6 +16,7 @@ sections:
       text: Section text
       items:
         - name: R
+          percent: 90
           description: 90%
           icon: r-project
           icon_pack: fab
