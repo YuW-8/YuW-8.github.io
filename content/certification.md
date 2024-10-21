@@ -27,7 +27,7 @@ sections:
           icon_pack: 
         - name: ImageStream flow cytometry
           description: 
-          icon: custom/cytometry
+          icon: custom/camera
           icon_pack: 
         - name: PCR/qPCR
           description: 
@@ -43,7 +43,7 @@ sections:
           icon_pack:
         - name: Confocal microscope
           description: 
-          icon: custom/camera
+          icon: custom/microscope
           icon_pack:
   
   - block: features
@@ -53,19 +53,19 @@ sections:
       items:
         - name: Rodent husbandry and handling
           description: 
-          icon: 
+          icon: custom/mice
           icon_pack: 
         - name: Sample/tissue collection
-          description: custom/lung
-          icon: 
+          description: 
+          icon: custom/lung
           icon_pack: 
         - name: Bioluminescence imaging
-          description: custom/camera
-          icon: 
+          description: 
+          icon: custom/camera
           icon_pack: 
         - name: Syngeneic mouse tumor models
-          description: custom/cell
-          icon: 
+          description: 
+          icon: custom/cell
           icon_pack:
   
   - block: features
@@ -97,19 +97,19 @@ sections:
       items:
         - name: R
           description: 
-          icon: devicon/rstudio
+          icon: custom/r
           icon_pack: 
         - name: Python
           description: 
-          icon: code-bracket
+          icon: custom/python
           icon_pack: 
         - name: Shell
           description: 
-          icon: hero/command-line
+          icon: custom/shell
           icon_pack: 
         - name: SQL
           description: 
-          icon: circle-stack
+          icon: custom/sql
           icon_pack: 
         - name: YAML
           description: 
