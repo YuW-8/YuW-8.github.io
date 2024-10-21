@@ -10,12 +10,48 @@ design:
 sections:
   - block: features
     content:
-      title: Professional skillset
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
-      text: Section text
+      title: Wet Lab Skillset
+      text: 
+      items:
+        - name: Mammalian cell culture
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: Immune-oncology cell assays
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: Multicolor flow cytometry
+          description: 99%
+          icon: 
+          icon_pack: 
+        - name: ImageStream flow cytometry
+          description: 99%
+          icon: 
+          icon_pack:
+        - name: PCR/qPCR
+          description: 99%
+          icon: 
+          icon_pack:
+        - name: Nucleofection
+          description: 95%
+          icon: 
+          icon_pack:
+        - name: Western blotting/SDS-PAGE
+          description: 90%
+          icon: 
+          icon_pack:
+        - name: Confocal microscope
+          description: 80%
+          icon: 
+          icon_pack:
+
+  - block: features
+    content:
+      title: Dry Lab Skillset
+      text: 
       items:
         - name: R
-          percent: 90
           description: 90%
           icon: r-project
           icon_pack: fab
@@ -27,5 +63,4 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
-
 ---
