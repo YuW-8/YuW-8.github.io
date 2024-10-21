@@ -53,7 +53,7 @@ sections:
         Please feel free to reach out if you’re interested in working with me 😃
       button:
         text: Email Yu Wang
-        url: 'mailto:wangy0317@gmail.com'
+        url: mailto:wangy0317@gmail.com
     design:
       columns: '1'
 
