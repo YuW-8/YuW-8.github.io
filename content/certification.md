@@ -75,15 +75,15 @@ sections:
       items:
         - name: Bulk RNA-Seq
           description: GEO dataset GSE241915, GSE241916
-          icon: 
+          icon: custom/rna
           icon_pack: 
         - name: NanoString
           description: GEO dataset GSE241917
-          icon: 
+          icon: custom/rna
           icon_pack: 
         - name: scRNA-Seq
           description: 
-          icon: 
+          icon: custom/rna
           icon_pack: 
         - name: ATAC-Seq
           description: 
