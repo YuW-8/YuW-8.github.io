@@ -227,4 +227,4 @@ awards:
 
 ## About Me
 
-Yu Wang is a dedicated cancer researcher committed to advancing translational cancer research and passionate about bridging the gap between scientific discoveries and practical applications in oncology.
+Yu Wang (Amber) is a dedicated cancer researcher committed to advancing translational cancer research and passionate about bridging the gap between scientific discoveries and practical applications in oncology.
