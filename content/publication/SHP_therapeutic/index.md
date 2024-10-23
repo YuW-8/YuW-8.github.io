@@ -7,7 +7,9 @@ authors:
 - Rachel Farmer
 - Sayyed Hamed Shahoei
 - admin
-- et al.
+- '...'
+- Erik R Nelson
+
 author_notes:
 - "Equal contribution"
 date: "2024-08-10T00:00:00Z"

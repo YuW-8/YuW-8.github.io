@@ -9,7 +9,9 @@ authors:
 - Madeline A Henn
 - Mohammed Kadiri
 - admin
-- et al.
+- '...'
+- Erik R Nelson
+
 author_notes:
 - "Equal contribution"
 date: "2022-08-04T00:00:00Z"

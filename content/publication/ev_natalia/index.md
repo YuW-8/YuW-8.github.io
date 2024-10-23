@@ -3,20 +3,7 @@ title: "Neutrophils exposed to a cholesterol metabolite secrete extracellular ve
 authors:
 - Natalia Krawczynska
 - admin
-- Ki Lim
-- Anasuya Das Gupta
-- Adam Lenczowski
-- Marwan Abughazaleh
-- Shruti V Bendre
-- Lara I Kockaya
-- Claire P Schane
-- Yifan Fei
-- Alvaro G Hernandez
-- Jenny Drnevich
-- Jefferson Chan
-- Lawrence W Dobrucki
-- Marni D Boppart
-- Julie H Ostrander
+- '...'
 - Erik R Nelson
 
 author_notes:

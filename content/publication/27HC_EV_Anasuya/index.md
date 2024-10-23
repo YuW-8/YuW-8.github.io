@@ -8,10 +8,7 @@ authors:
 - Natalia Krawczynsk
 - Dhanya Pradeep
 - admin
-- Hashni Epa Vidana Gamage
-- Adam T Nelczyk
-- Stephen A Boppart
-- Marni D Boppart
+- '...'
 - Erik R Nelson
 author_notes:
 - "Equal contribution"
