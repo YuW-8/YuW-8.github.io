@@ -40,7 +40,7 @@ links:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: https://www.biorxiv.org/content/biorxiv/early/2024/08/02/2024.08.02.606061.full.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
