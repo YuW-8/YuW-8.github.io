@@ -1,5 +1,5 @@
 ---
-title: "Neutrophils exposed to a cholesterol metabolite secrete extracellular vesicles that promote epithelial-mesenchymal transition and stemness in breast cancer cells"
+title: "Neutrophils exposed to a cholesterol metabolite secrete extracellular vesicles that promote epithelial-mesenchymal transition and stemness in breast cancer cells [in review]"
 authors:
 - Natalia Krawczynska
 - admin

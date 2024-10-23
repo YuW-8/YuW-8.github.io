@@ -1,5 +1,5 @@
 ---
-title: "The role of cholesterol metabolism and homeostasis in immune regulation and cancer pathophysiology (in review)"
+title: "The role of cholesterol metabolism and homeostasis in immune regulation and cancer pathophysiology [in review]"
 authors:
 - admin
 - Shruti V Bendre
