@@ -20,7 +20,7 @@ publishDate: "2024-08-02T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "bioRxiv"
+publication: "bioRxiv: https://doi.org/10.1101/2024.08.02.606061"
 publication_short: ""
 
 abstract: Small extracellular vesicles (sEVs) are emerging as critical mediators of intercellular communication in the tumor microenvironment (TME). Here, we investigate the mechanisms by which sEVs derived from neutrophils treated with the cholesterol metabolite, 27-hydroxycholesterol (27HC), influence breast cancer progression. sEVs released from 27HC treated neutrophils enhance epithelial-mesenchymal transition (EMT) and stem-like properties in breast cancer cells, resulting in loss of adherence, increased migratory capacity and resistance to cytotoxic chemotherapy. Decreased microRNAs (miRs) within the sEVs resulted in activation of the WNT/β-catenin signaling pathway in recipient cells and suggest that this may be a predominant pathway for stem-like phenotype and EMT. Our findings underscore a novel mechanism by which 27HC-modulated neutrophils contribute to breast cancer pathophysiology through EV-mediated intercellular communication, suggesting potential therapeutic targets in cancer treatment.
