@@ -4,7 +4,27 @@ authors:
 - Hashni Epa Vidana Gamage
 - Sayyed Hamed Shahoei
 - admin
-- et al.
+- Elise Jacquin
+- Erin Weisser
+- Rafael O Bautista
+- Madeline A Henn
+- Claire P Schane
+- Adam T Nelczyk
+- Liqian Ma
+- Anasuya Das Gupta
+- Shruti V Bendre
+- Tiffany Nguyen
+- Srishti Tiwari
+- Evelyn Tjoanda
+- Natalia Krawczynska
+- Sisi He
+- Samuel T Albright
+- Rachel Farmer
+- Amanda J Smith
+- Emma C Fink
+- '...'
+- Erik R Nelson
+
 author_notes:
 - "Equal contribution"
 date: "2024-08-10T00:00:00Z"

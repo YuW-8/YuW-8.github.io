@@ -7,7 +7,18 @@ authors:
 - Anasuya Das Gupta
 - Adam Lenczowski
 - Marwan Abughazaleh
-- et al.
+- Shruti V Bendre
+- Lara I Kockaya
+- Claire P Schane
+- Yifan Fei
+- Alvaro G Hernandez
+- Jenny Drnevich
+- Jefferson Chan
+- Lawrence W Dobrucki
+- Marni D Boppart
+- Julie H Ostrander
+- Erik R Nelson
+
 author_notes:
 
 date: "2024-08-02T00:00:00Z"
