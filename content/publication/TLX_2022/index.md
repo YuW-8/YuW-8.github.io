@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: https://en.wikipedia.org/wiki/Nuclear_receptor#/media/File:PR_DBD_2C7A.png'
   focal_point: ""
   preview_only: false
 
