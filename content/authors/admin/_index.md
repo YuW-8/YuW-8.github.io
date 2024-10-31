@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/yu-wang-720b50116
   - icon: brands/github
-    url: 
+    url: https://github.com/YuW-8
 
 
 interests:
